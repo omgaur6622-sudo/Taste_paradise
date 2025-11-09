@@ -1,3 +1,21 @@
+# MongoDB data - DO NOT PUSH
+mongodb/data/
+mongodb/logs/
+
+# Python distributions/builds
+distributions/
+dist/
+build/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+*.db
+*.sqlite
+
 # Python
 __pycache__/
 *.py[cod]
